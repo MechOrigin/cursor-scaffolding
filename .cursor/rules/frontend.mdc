@@ -1,17 +1,6 @@
-# Frontend Development Guidelines
-
-**Description**: Specific rules for the frontend codebase.
-
-**File Patterns**: `src/frontend/**/*`
-
-**Rules**:
-- Use React for UI components.
-- Adhere to the established component hierarchy and state management patterns.
-- Follow atomic design principles for component organization.
-- Implement responsive design patterns.
-- Use TypeScript for type safety and better developer experience.
-- Follow accessibility guidelines (WCAG 2.1).
-- Implement proper error boundaries and loading states.
-- Use CSS modules or styled-components for styling.
-- Write unit tests for components using React Testing Library.
-- Document component props and usage examples. 
+---
+description: 
+globs: 
+alwaysApply: false
+---
+ 

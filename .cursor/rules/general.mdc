@@ -1,14 +1,6 @@
-# General Project Guidelines
-
-**Description**: Applies overarching principles to the entire project.
-
-**File Patterns**: `**/*`
-
-**Rules**:
-- Before modifying any files, create a detailed plan and seek approval.
-- Maintain consistency in coding styles and practices.
-- Ensure all dependencies are compatible and non-conflicting.
-- Follow the established project structure and naming conventions.
-- Document all major changes and decisions.
-- Keep the codebase clean and remove unused code.
-- Write tests for new features and maintain existing test coverage. 
+---
+description: 
+globs: 
+alwaysApply: false
+---
+ 

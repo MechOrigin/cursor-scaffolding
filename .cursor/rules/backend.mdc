@@ -1,17 +1,6 @@
-# Backend Development Guidelines
-
-**Description**: Specific rules for the backend codebase.
-
-**File Patterns**: `src/backend/**/*`
-
-**Rules**:
-- Utilize Node.js with Express for server-side logic.
-- Ensure API endpoints follow RESTful conventions.
-- Implement proper error handling and logging.
-- Use TypeScript for type safety and better developer experience.
-- Follow the repository pattern for database operations.
-- Implement proper authentication and authorization.
-- Write comprehensive API documentation using OpenAPI/Swagger.
-- Use environment variables for configuration.
-- Implement rate limiting and security best practices.
-- Write unit tests for business logic and API endpoints. 
+---
+description: 
+globs: 
+alwaysApply: false
+---
+ 
