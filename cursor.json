@@ -1,0 +1,19 @@
+{
+  "projectName": "Cursor Scaffolding",
+  "rulesDirectory": ".cursor/rules",
+  "defaultRules": ["general.mdc"],
+  "filePatterns": {
+    "frontend": "src/frontend/**/*",
+    "backend": "src/backend/**/*"
+  },
+  "editor": {
+    "formatOnSave": true,
+    "tabSize": 2,
+    "useTabs": false
+  },
+  "ai": {
+    "enableAutoComplete": true,
+    "enableInlineHints": true,
+    "enableErrorExplanations": true
+  }
+} 
